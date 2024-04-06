@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Jerin Kunjumon</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
