@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a react firebase app
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, MongoDb, Javascript**
+- 🌱 I’m currently learning **Firebase & Zoom APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jerin-kunjumon/portfolio-website-react-bootstrap](https://github.com/jerin-kunjumon/portfolio-website-react-bootstrap)
 
