@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jerin-kunjumon/portfolio-website-react-bootstrap](https://github.com/jerin-kunjumon/portfolio-website-react-bootstrap)
 
-- 💬 Ask me about **Html, Css, AngularJS, Typescript**
+- 💬 Ask me about **Html, Css, AngularJS, Typescript, Javascript, MongoDB, ReactJS, NodeJS, Express**
 
 - 📫 How to reach me **jkjerryomalloor@gmail.com**
 
-- ⚡ Fun fact **I like to play games**
+- ⚡ Fun fact **Playing games is my hobby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
