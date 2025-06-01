@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jkjerry" target="blank"><img src="https://img.shields.io/twitter/follow/jkjerry?logo=twitter&style=for-the-badge" alt="jkjerry" /></a> </p>
 
-- 🔭 I’m currently working on [Lunar calendar](https://github.com/jerin-kunjumon/Lunar-Calendar)
+- 🔭 I’m currently working on a react firebase app
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, MongoDb, Javascript**
 
